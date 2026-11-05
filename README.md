@@ -1,40 +1,47 @@
-_______________\\\\___________________\_\\\__
+# 📘 Cuadernillo HTML 2026
 
+Guía de ejercicios prácticos de programación web con el Bloc de notas.
 
-# 📘 Cuadernillo HTML 2026 - Ejercicios Prácticos
+**Nivel:** Principiante · **Herramienta:** Bloc de notas / editor de texto · **Ejercicios:** 10 prácticas
 
-¡Bienvenido al taller práctico de HTML para principiantes!
+## 📂 Contenido
 
----
+| Archivo | Tema |
+|---|---|
+| `ejercicio1.html` | La estructura básica de HTML |
+| `ejercicio2.html` | Jerarquía de títulos y saltos de línea |
+| `ejercicio3.html` | Formatos de texto básicos |
+| `ejercicio4.html` | Listas ordenadas y desordenadas |
+| `ejercicio5.html` | Hipervínculos / enlaces |
+| `ejercicio6.html` | Insertar imágenes (usa `foto.jpg`) |
+| `ejercicio7.html` | Tablas de datos básicas |
+| `ejercicio8.html` | Formulario de contacto |
+| `ejercicio9.html` | Menús desplegables y botones de opción |
+| `perfil.html` | Proyecto integrador: perfil personal |
+| `index.html` | Menú con enlaces a todos los ejercicios |
 
-### ✏️ TAREA DEL ESTUDIANTE:
-Edita este archivo en GitHub y cambia la palabra **[TU NOMBRE AQUÍ]** por tu nombre real.
+## ▶️ Cómo ver los ejercicios
 
-> **Estudiante:** <mark>[Yaxel Rodriguez]</mark>
+1. Descarga o clona este repositorio.
+2. Abre `index.html` con doble clic en tu navegador (Chrome, Edge o Firefox).
+3. Haz clic en cualquier ejercicio para verlo.
 
----
+También puedes abrir cada archivo `.html` directamente.
 
-## 🛠️ Instrucciones de trabajo en Bloc de notas
+## 📝 Cómo crear tus propios ejercicios
+
 1. Abre el **Bloc de notas** en tu computadora.
-2. Copia el código de cualquier ejercicio de la lista inferior.
+2. Escribe o copia el código HTML del ejercicio.
 3. Haz clic en **Archivo > Guardar como...**
-4. En **Tipo**, selecciona `Todos los archivos (*.*)`.
-5. Guárdalo como `ejercicio1.html` y ábrelo con tu navegador.
+4. En **Tipo**, selecciona **Todos los archivos (*.*)**.
+5. Ponle un nombre terminado en `.html` (por ejemplo: `ejercicio1.html`).
+6. Haz doble clic en el archivo para abrirlo en tu navegador.
 
----
+## 🛠️ Tecnologías
 
-## 💻 Los 10 Ejercicios Básicos
+- HTML5
+- CSS básico (solo en `index.html`)
 
-### Ejercicio 1: Estructura Básica
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mi Primera Página</title>
-</head>
-<body>
-    <h1>¡Hola, mundo!</h1>
-    <p>Página creada por un estudiante del Cuadernillo 2026.</p>
-</body>
-</html>
-———————————////////————————
+## 👤 Autor
+
+Yaxel Saul Rodriguez
