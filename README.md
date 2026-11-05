@@ -27,7 +27,7 @@
         <li><a href="ejercicio7.html" target="_blank">Ejercicio 7: Tablas</a></li>
         <li><a href="ejercicio8.html" target="_blank">Ejercicio 8: Formulario</a></li>
         <li><a href="ejercicio9.html" target="_blank">Ejercicio 9: Menú Desplegable</a></li>
-        <li><a href="perfil.html" target="_blank">Ejercicio 10: Proyecto Integrador</a></li>
+        <li><a href="perfil.html" target="_blank">Perfil: Proyecto Integrador</a></li>
     </ul>
 
 </body>
